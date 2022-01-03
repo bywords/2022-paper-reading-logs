@@ -1,0 +1,1 @@
+- 2022/01/03: "Efficient Estimation of Word Representations in Vector Space," T. Milkolov et al., 2013.
