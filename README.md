@@ -1,3 +1,4 @@
+- 2022/01/06: "Supervised Contrastive Learning for Pre-trained Language Model Fine-Tuning," B. Gunel et al., 2021.
 - 2022/01/06: "A Survey of NLP-Related Crowdsourcing HITs: what works and what does not," J. Huynh et al., 2021.
 - 2022/01/05: "Distributed Representations of Words and Phrases and their Compositionality," T. Milkov et al., 2013.
 - 2022/01/04: "A Simple Framework for Contrastive Learning of Visual Representations," T. Chen et al., 2020.
