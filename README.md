@@ -1,3 +1,4 @@
+- 2022/01/17: "Not All Negatives are Equal: Label-Aware Contrastive Loss for Fine-grained Text Classification," V. Suresh et al., 2021.
 - 2022/01/13: "Momentum Contrast for Unsupervised Visual Representation Learning (MoCo)," K. He et al., 2020.
 - 2022/01/12: "Representation Learning with Contrastive Predictive Coding," A. Oord et al., 2019.
 - 2022/01/11: "CERT: Contrastive Self-supervised Learning for Language Understanding," H. Fang et al., 2020.
