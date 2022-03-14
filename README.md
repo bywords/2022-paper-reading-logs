@@ -1,4 +1,5 @@
-- 2022/01/18-?: "Supervised Contrastive Learning," P. Khosla et al., 2021.
+- 2022/03/14: "Distilling the Knowledge in a Neural Network," G. Hinton et al., 2015.
+- 2022/01/18: "Supervised Contrastive Learning," P. Khosla et al., 2021.
 - 2022/01/17: "Not All Negatives are Equal: Label-Aware Contrastive Loss for Fine-grained Text Classification," V. Suresh et al., 2021.
 - 2022/01/13: "Momentum Contrast for Unsupervised Visual Representation Learning (MoCo)," K. He et al., 2020.
 - 2022/01/12: "Representation Learning with Contrastive Predictive Coding," A. Oord et al., 2019.
