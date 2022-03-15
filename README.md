@@ -1,3 +1,4 @@
+- 2022/03/15: "A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios," Hedderich et al., 2021.
 - 2022/03/14: "Distilling the Knowledge in a Neural Network," G. Hinton et al., 2015.
 - 2022/01/18: "Supervised Contrastive Learning," P. Khosla et al., 2021.
 - 2022/01/17: "Not All Negatives are Equal: Label-Aware Contrastive Loss for Fine-grained Text Classification," V. Suresh et al., 2021.
