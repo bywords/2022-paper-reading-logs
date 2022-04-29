@@ -1,3 +1,4 @@
+- 2022/04/29: "DiffCSE: Difference-based Contrative Learning for Sentence Embeddings," Chuang et al., 2022.
 - 2022/04/19: "Challenges and Strategies in Cross-Cultural NLP," Hershcovich et al., 2022.
 - 2022/04/12: "Language Models are Unsupervised Multitask Learners," Radford et al., 2019. 
 - 2022/04/05: "Improving Language Understanding by Generative Pre-Training," Radford et al., 2018.
