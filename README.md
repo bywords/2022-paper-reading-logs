@@ -1,3 +1,4 @@
+- 2022/05/20: "Deep contextualized word representations," Peters et al., 2018.
 - 2022/05/03: "Supervised Learning of Universal Sentence Representations from Natural Language Inference Data," Conneau et al, 2018.
 - 2022/05/03: "SentEval: An Evaluation Toolkit for Universal Sentence Representations," Conneau and Kiela, 2018.
 - 2022/04/29: "DiffCSE: Difference-based Contrative Learning for Sentence Embeddings," Chuang et al., 2022.
